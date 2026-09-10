@@ -1,0 +1,15 @@
+project_id: PRJ-0005
+portfolio_title: "RAG Chatbot Personal — Document Q&A with Gemini"
+project_type: personal
+client: Founder
+
+# Created 2026-09-10 per ADR-0033 (Personal & Client Project Classification),
+# Decision 2: personal-Project bypass path — no Opportunity, no Briefcase,
+# no Consulting Framework involvement. Personal learning project: practical
+# RAG (Retrieval-Augmented Generation) chatbot, built with LangChain +
+# Google Gemini (generation and embeddings) + Chroma vector store, exposed
+# through a Streamlit chat interface. See requirements.md for the full
+# captured design.
+#
+# source_opportunity intentionally omitted — no Opportunity exists for this
+# Project (ADR-0033 personal-project bypass).
